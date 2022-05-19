@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1652546384 source:c:\users\bryan\clonacion\prototipop12p2022\informenomina\main.cpp
+	<iostream>
+	"informe.h"
+
+1652553850 c:\users\bryan\clonacion\prototipop12p2022\informenomina\include\informe.h
+
+1652553859 source:c:\users\bryan\clonacion\prototipop12p2022\informenomina\src\informe.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"informe.h"
+
+1652546384 source:c:\users\bryan\clonacion\informe\informenomina\main.cpp
+	<iostream>
+	"informe.h"
+
+1652553850 c:\users\bryan\clonacion\informe\informenomina\include\informe.h
+
+1652554194 source:c:\users\bryan\clonacion\informe\informenomina\src\informe.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"informe.h"
+

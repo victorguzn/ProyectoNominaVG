@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1649622925 source:c:\users\saul_\proyectos\proyecto\proyectoe6\colaborador\proyectofp1e6\crud-empresas\crud-empresas\main.cpp
+	<iostream>
+	"Empresa.h"
+
+1649623211 c:\users\saul_\proyectos\proyecto\proyectoe6\colaborador\proyectofp1e6\crud-empresas\crud-empresas\include\empresa.h
+	<iostream>
+
+1649623033 source:c:\users\saul_\proyectos\proyecto\proyectoe6\colaborador\proyectofp1e6\crud-empresas\crud-empresas\src\empresa.cpp
+	"Empresa.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+

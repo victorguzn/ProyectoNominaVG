@@ -1,0 +1,16 @@
+#ifndef EMPLEADOS_
+#define EMPLEADOS_
+
+
+class Empleados
+{
+    public:
+        Empleados();
+        virtual ~Empleados();
+
+    protected:
+
+    private:
+};
+
+#endif // EMPLEADOS_

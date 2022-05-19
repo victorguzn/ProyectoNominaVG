@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1648662975 source:c:\users\vaio\proyectos\proyectofp1e6\proyectofp1e6\creacionmenuprincipal\main.cpp
+	<iostream>
+	"persona.h"
+
+1648663423 c:\users\vaio\proyectos\proyectofp1e6\proyectofp1e6\creacionmenuprincipal\include\persona.h
+
+1648663235 source:c:\users\vaio\proyectos\proyectofp1e6\proyectofp1e6\creacionmenuprincipal\src\persona.cpp
+	<iostream>
+	"persona.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1648663153 source:c:\users\bryan\proyectos\proyectofinal\colaborador\nuevo\proyectofp1e6\creacionmenuprincipal\main.cpp
+	<iostream>
+	"persona.h"
+
+1648688345 c:\users\bryan\proyectos\proyectofinal\colaborador\nuevo\proyectofp1e6\creacionmenuprincipal\include\persona.h
+
+1648689193 source:c:\users\bryan\proyectos\proyectofinal\colaborador\nuevo\proyectofp1e6\creacionmenuprincipal\src\persona.cpp
+	<iostream>
+	"persona.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+

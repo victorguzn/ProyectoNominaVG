@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1649306818 source:c:\users\guvir\onedrive\escritorio\bitacora\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1649432955 source:c:\users\guvir\bitacora\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+
+1649458890 source:c:\users\guvir\bitacora\src\puesto.cpp
+	"Puesto.h"
+
+1649457946 c:\users\guvir\bitacora\include\puesto.h
+
+1649566546 source:c:\users\guvir\proyectofp1e6\creacionmenuprincipal\bitacora de empresa\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+

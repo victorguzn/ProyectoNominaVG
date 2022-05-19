@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1649471469 source:c:\users\guvir\onedrive\escritorio\puestos\main.cpp
+	<iostream>
+	"Puestos.h"
+
+1649617625 c:\users\guvir\onedrive\escritorio\puestos\include\puestos.h
+	<iostream>
+
+1649621997 source:c:\users\guvir\onedrive\escritorio\puestos\src\puestos.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Puestos.h"
+
