@@ -1,3 +1,0 @@
-1         Victor    10000     
-2         Josue     8950      
-3         Maria     8000      

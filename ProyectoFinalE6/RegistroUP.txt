@@ -1,3 +1,0 @@
-Victor 123
-Carlos 234
-Salvador 456
