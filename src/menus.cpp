@@ -5,6 +5,7 @@
 #include "empleados.h"
 #include "bitacora.h"
 #include "puestos.h"
+#include "generacionnomina.h"
 #include <iostream>
 #include <fstream>
 #include <iomanip>
@@ -49,6 +50,7 @@ void menus::menuGeneral(){
     conceptos punto;
     informe gomu;
     bitacora bita;
+    generacionnomina genera;
 
     switch(choice)
     {
@@ -61,7 +63,7 @@ void menus::menuGeneral(){
 		}while(x=='y'||x=='Y');*/
 		break;
 	case 2:
-		//display();
+		genera.menuprincipalgeneracionnomina();
 		break;
 	case 3:
 		gomu.menu();

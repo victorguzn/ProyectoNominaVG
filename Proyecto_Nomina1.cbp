@@ -37,6 +37,7 @@
 		<Unit filename="include/bitacora.h" />
 		<Unit filename="include/conceptos.h" />
 		<Unit filename="include/empleados.h" />
+		<Unit filename="include/generacionnomina.h" />
 		<Unit filename="include/impuestos.h" />
 		<Unit filename="include/informe.h" />
 		<Unit filename="include/ingreso.h" />
@@ -46,6 +47,7 @@
 		<Unit filename="src/bitacora.cpp" />
 		<Unit filename="src/conceptos.cpp" />
 		<Unit filename="src/empleados.cpp" />
+		<Unit filename="src/generacionnomina.cpp" />
 		<Unit filename="src/impuestos.cpp" />
 		<Unit filename="src/informe.cpp" />
 		<Unit filename="src/ingreso.cpp" />
